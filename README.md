@@ -2,9 +2,7 @@
 
 A website for a (fictional) eye clinic. Patients book appointments, Staff manage the day, Doctors see their schedule.
 The server checks every clinic rule, so nobody can make a booking that breaks one.
-
-> All data is synthetic (course data pack 1). There is **no AI** in this project: every decision is plain Python code.
-
+<br>
 ---
 
 ## ✨ What you can do
